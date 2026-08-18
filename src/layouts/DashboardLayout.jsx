@@ -21,10 +21,9 @@ export default function DashboardLayout({ children }) {
         <div className="flex h-16 items-center border-b border-slate-800/80 px-6">
           <div>
             <div className="text-lg font-bold tracking-wide">
-              PS28 <span className="text-cyan-400">SOC</span>
-            </div>
+             SOC <span className="text-cyan-400">COMMAND</span>              </div>
             <div className="text-[10px] uppercase tracking-[0.2em] text-slate-500">
-              Security Operations
+              Security Operations Center
             </div>
           </div>
         </div>
