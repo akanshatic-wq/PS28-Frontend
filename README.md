@@ -4,7 +4,7 @@ Security Operations Center dashboard built with React and Vite.
 
 ## Live Demo
 
-[Open PS28 SOC Dashboard]([YOUR-NETLIFY-URL](https://ps28-soc-dashboard.netlify.app/))
+[Open PS28 SOC Dashboard](https://ps28-soc-dashboard.netlify.app/)
 
 ## Tech Stack
 
